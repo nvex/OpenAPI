@@ -10,7 +10,7 @@ if __name__ == '__main__':
         "https": "",
     }
 
-    entry_point = 'https://api.nvexchange.io/openapi'  # enter your open api entry point
+    entry_point = 'https://api.nvex.io/openapi'  # enter your open api entry point
 
     api_key = ''
     secret = ''

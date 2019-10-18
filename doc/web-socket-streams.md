@@ -2,7 +2,7 @@
 
 ## General WSS information
 
-* The base endpoint is: **wss://wsapi.nvexchange.io/**
+* The base endpoint is: **wss://wsapi.nvex.io/**
 * Raw streams are accessed at **/openapi/quote/ws/v1**
 
 | name | values |

@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-* 行情基础端点为: **wss://wsapi.nvexchange.io/**
+* 行情基础端点为: **wss://wsapi.nvex.io/**
 * 直接访问时URL格式为 **/openapi/quote/ws/v1**
 
 | 名称 | 值 |

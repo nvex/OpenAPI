@@ -2,12 +2,12 @@
 
 ## Base Domain
 
-nvexchange.io
+nvex.io
 
 ## API Endpoint ($HOST)
 
 | Name               | base endpoint                                    |
 | ------------------ | ------------------------------------------------ |
-| rest-api           | **[https://api.nvexchange.io](https://api.nvexchange.io)** |
-| web-socket-streams | **[wss://wsapi.nvexchange.io](wss://wsapi.nvexchange.io)** |
-| user-data-stream   | **[wss://wsapi.nvexchange.io](wss://wsapi.nvexchange.io)** |
+| rest-api           | **[https://api.nvex.io](https://api.nvex.io)** |
+| web-socket-streams | **[wss://wsapi.nvex.io](wss://wsapi.nvex.io)** |
+| user-data-stream   | **[wss://wsapi.nvex.io](wss://wsapi.nvex.io)** |
